@@ -13,7 +13,7 @@ function Footer() {
           <div>
             <h2 className="text-white text-lg font-semibold mb-4">About Us</h2>
             <p className="mb-4">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla fugit nobis praesentium perspiciatis incidunt magnam iure rem totam illo exercitatio
+            Dive into our comprehensive music courses and transform your musical journey today. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential.
             </p>
           </div>
           <div>
@@ -80,11 +80,11 @@ function Footer() {
             <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
             <p>lahore, pakistan</p>
             <p>10001</p>
-            <p>Email: info@musicschool.com</p>
+            <p>Email: info@CacheLogic.com</p>
             <p>Phone: (+92) 456-7890</p>
           </div>
           </div>
-          <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
+          <p className="text-center text-xs pt-8">© 2025 CacheLogic. All rights reserved.</p>
       </footer>
     )
   }

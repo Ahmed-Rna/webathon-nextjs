@@ -46,9 +46,9 @@ function FeaturedCourses() {
         </div>
         <div className="mt-20 text-center">
             <Link href={"/contact"}
-            className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-teal-600 hover:bg-teal-700 md:py-4 md:text-lg md:px-10"
+            className="inline-flex items-center justify-center px-5 py-2 border border-transparent text-base font-medium rounded-md text-white bg-teal-600 hover:bg-teal-700 md:py-3 md:text-lg md:px-10"
             >
-            View All courses
+            View All Services
             </Link>
         </div>
     </div>

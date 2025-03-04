@@ -13,19 +13,20 @@ function HeroSection() {
       />
         <div className="p-4 relative lg:mt-10  z-10 w-full text-center" >
             <h1
-            className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400"
-            >Master the art of Technology</h1>
+            className="mt-20 md:mt-0 text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400"
+            >Meet the art of Technology</h1>
+            <h1 className="mt-20 md:mt-0 text-4xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">CacheLogic</h1>
             <p
             className="mt-10 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto"
-            >Dive into our comprehensive music courses and transform your musical journey today. Whether you're a beginner or looking to refine your skills, join us to unlock your true potential.</p>
+            >Explore our comprehensive tech courses and elevate your digital skills today. Whether you're starting your journey or seeking to enhance your expertise, join us to unlock your full potential in the tech world.</p>
            
             <div className="mt-10">
-                <Link href={"/courses"}>
+                <Link href={"/contact"}>
                     <Button
                     borderRadius="1.75rem"
                     className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
                     >
-                    Explore courses
+                    Contact US
                     </Button>
                 </Link>
             </div>
