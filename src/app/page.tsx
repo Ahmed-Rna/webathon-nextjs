@@ -1,6 +1,6 @@
 import HeroSection from "@/components/HeroSection";
 import FeaturedCourses from "@/components/FeaturedCourses";
-import Image from "next/image";
+
 import { Whychooseus } from "@/components/Whychooseus";
 import { TestimonialsCards } from "@/components/TestimonialsCards";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
