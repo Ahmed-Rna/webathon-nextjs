@@ -1,0 +1,59 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Web Development Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of web development with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "User Interface Design",
+        "slug": "piano-for-beginners",
+        "description": "Start your journey in UI design with foundational skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced SEO Techniques",
+        "slug": "advanced-vocal-techniques",
+        "description": "Enhance your website's visibility with advanced SEO techniques for intermediate to advanced learners.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Branding Strategies",
+        "slug": "drumming-mastery",
+        "description": "Master the art of branding with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Application development",
+        "slug": "drumming-mastery",
+        "description": "Master the art of branding with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": true,
+        "image": "/courses/drumming.jpg"
+      }
+      
+      
+      
+      
+    ]
+  }
+  
